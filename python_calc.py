@@ -26,7 +26,7 @@ def calculate_percentage(obt, tot):
         return f"Result: {(obt/tot) * 100}%"
         
 def menu():
-    print("\t--- Calculator Menu ---")
+    print("\t *****Calculator Menu*****")
     print("1. Addition")
     print("2. Subtraction")
     print("3. Multiplication")
